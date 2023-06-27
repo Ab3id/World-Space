@@ -1,6 +1,8 @@
-# world_space
+# World Space.
 
-A new Flutter project.
+This project is built as an upgrade to Sertinews.
+If you're familiar with that old project, well, here's a refresh, built with much better knowledge.
+You can follow the progress of this project, through the develop branch, as only important stages will be merged to master.
 
 ## Getting Started
 
